@@ -4,6 +4,8 @@ A collection of my solutions to LeetCode problems, written mainly in C++.
 
 The repository is used for practicing algorithms, data structures, problem-solving techniques, and modern C++.
 
+[Leetcode profile](https://leetcode.com/u/simafrus/)
+
 ## Topics
 
 The solutions cover a variety of algorithmic topics, including:
